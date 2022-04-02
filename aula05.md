@@ -247,10 +247,10 @@ alocado pelo outro numa espera circular.
 Tratamento de deadlocks
 -----------------------
 
-1) Podemos garantir que nunca ocorra um deadlock
-2) Podemos permitir que um deadlock ocorra e fazer alguma coisa para recuperar a
+1. Podemos garantir que nunca ocorra um deadlock
+2. Podemos permitir que um deadlock ocorra e fazer alguma coisa para recuperar a
 situação
-3) Podemos ignorar o problema completamente, deixando a responsabilidade de
+3. Podemos ignorar o problema completamente, deixando a responsabilidade de
 evitar e tratar os deadlocks nas mãos dos programadores
 
 **Prevenção:** Para prevenir deadlocks, uma das condições que resultam em deadlock
@@ -273,17 +273,17 @@ processos.
 Questões para estudo
 --------------------
 
-1) Quais são as informações de um processo que o SO deve controlar (referentes
+1. Quais são as informações de um processo que o SO deve controlar (referentes
 ao PCB, bloco de controle de processo) e quais os estados que um processo pode
 atingir durante sua execução?
 
-2) Qual a função do escalonador de CPU no SO?
+2. Qual a função do escalonador de CPU no SO?
 
-3) O que é troca de contexto? Qual módulo do SO faz a troca de contexto?
+3. O que é troca de contexto? Qual módulo do SO faz a troca de contexto?
 
-4) O que é thread e qual a vantagem do seu uso?
+4. O que é thread e qual a vantagem do seu uso?
 
-5) Qual é a principal vantagem do escalonamento Round-robin sobre o First-come,
+5. Qual é a principal vantagem do escalonamento Round-robin sobre o First-come,
 First-served?
 
-6) O que é deadlock e quais as condições para que ele ocorra?
+6. O que é deadlock e quais as condições para que ele ocorra?

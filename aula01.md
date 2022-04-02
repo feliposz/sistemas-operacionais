@@ -120,19 +120,19 @@ dados do sistema.
 Questões para estudo
 ====================
 
-1) Cite as principais funções de um SO.
+1. Cite as principais funções de um SO.
 
-2) Quando é apropriado sacrificar eficiência em favor da facilidade de uso
+2. Quando é apropriado sacrificar eficiência em favor da facilidade de uso
 (conveniência)? E o contrário (+ eficiência e - conveniência)?
 
-3) Quais sistemas operacionais você conhece/usa em casa e no trabalho?
+3. Quais sistemas operacionais você conhece/usa em casa e no trabalho?
 
-4) Defina com suas palavras o que é um processo.
+4. Defina com suas palavras o que é um processo.
 
-5) Por que é importante que o SO disponibilize um acesso uniforme aos diversos
+5. Por que é importante que o SO disponibilize um acesso uniforme aos diversos
 tipos de dispositivos de E/S?
 
-6) O que você classificaria como fazendo parte de um SO? Ele deve incluir
+6. O que você classificaria como fazendo parte de um SO? Ele deve incluir
 programas de edição de vídeo, acesso à Web, e-mail e comunicação instantânea?
 Por quê?
 

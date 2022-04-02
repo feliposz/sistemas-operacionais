@@ -234,17 +234,17 @@ Java.
 Questionário
 ============
 
-1) Cite três módulos do SO que você considera importante e descreva
+1. Cite três módulos do SO que você considera importante e descreva
 resumidamente a função deles.
 
-2) Qual o objetivo do interpretador de comandos?
+2. Qual o objetivo do interpretador de comandos?
 
-3) Por que é função do sistema operacional alocar recursos para os processos?
+3. Por que é função do sistema operacional alocar recursos para os processos?
 Por que estes não podem acessá-los diretamente?
 
-4) O que é uma chamada de sistema?
+4. O que é uma chamada de sistema?
 
-5) Cite 3 exemplos de programas de sistema de algum sistema operacional que você
+5. Cite 3 exemplos de programas de sistema de algum sistema operacional que você
 conhece e qual a função de cada um deles.
 
-6) Compare as estruturas de microkernel e estrutura simples (monolítica).
+6. Compare as estruturas de microkernel e estrutura simples (monolítica).
